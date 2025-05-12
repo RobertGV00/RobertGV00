@@ -15,9 +15,9 @@
 🌐 Portfolio online: [Visita mi sitio web](https://robertgv00.github.io/PortofolioRobert)
 
 🧩 Proyectos destacados:
-- 🎸 [AppGuitarra]() – App educativa con contenido interactivo para aprender guitarra.
-- 📊 [Script Excel citas]() – Automatiza y evita duplicados en historiales de citas en Excel.
-- 🖥️ [Infraestructura empresarial]() – Configuración completa de servidores en rack con IA.
+- 🎸 AppGuitarra – App educativa con contenido interactivo para aprender guitarra.
+- 📊 Script Excel citas – Automatiza y evita duplicados en historiales de citas en Excel.
+- 🖥️ Infraestructura empresarial – Configuración completa de servidores en rack con IA.
 
 ---
 
